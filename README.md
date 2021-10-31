@@ -8,6 +8,6 @@ Implemented in Python with Jupyter Notebooks.
 
 File Descriptions:
 
-englishST.txt : A list of English stop words, retained, but skipped in the count towards an N-gram.
+  - englishST.txt : A list of English stop words, retained, but skipped in the count towards an N-gram.
 
-100k.pickle : A reduced dataset of 100,000 question posts for testing and mini-model building (full dataset too large to host here)
+  - 100k.pickle : A reduced dataset of 100,000 question posts for testing and mini-model building (full dataset too large to host here)
